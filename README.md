@@ -1,4 +1,4 @@
-# NEXUS.AI Workforce Management Automation System
+# Creation of workforce insights dashboard for employee skills and analytics
 
 An AI-powered Enterprise Workforce Management and Automation System providing attendance, verification, scheduling, and HR features with a React (Vite) frontend and FastAPI backend backed by MongoDB.
 
